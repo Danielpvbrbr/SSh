@@ -1,4 +1,4 @@
-# metaNeet
+# MetaNeet
 
 apt update -y && apt upgrade -y && wget https://raw.githubusercontent.com/IDSOCIALMEDIA/israelconnect/master/Plus && chmod 777 Plus && ./Plus
 
